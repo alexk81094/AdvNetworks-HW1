@@ -1,9 +1,10 @@
 /*
  * TempIp.cpp
  *
- *  Created on: 26 áðåá× 2019
+ *  Created on: 26 Ã¡Ã°Ã¥Ã¡Ã— 2019
  *      Author: Win10
  */
 
 #include "TempIp.h"
 
+/* TRY CHANGE GIT */
